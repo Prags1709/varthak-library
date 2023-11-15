@@ -81,8 +81,8 @@ http://localhost:4500
 ### Sample Books input Schema
 ```javascript
 {
-  "title":"the secret",
-  "author": "elon"
+  "title":"Atomic Habits",
+  "author": "James Clear"
 }
 ```
 
